@@ -10,11 +10,11 @@
 Junior Front-End Web / App developer.
 
 [twitter]: https://www.twitter.com/mycodingjourne3
-[twit]: /img/twitter.png
+[twit]: https://github.com/MrAjMann/MrAjMann/blob/master/img/twitter.png
 [linkedin]: https://www.linkedin.com/in/anthonyjmann87/
-[linked]: /img/linkedin.png
+[linked]: https://github.com/MrAjMann/MrAjMann/blob/master/img/linkedin.png
 [youtube]: https://www.youtube.com/channel/UCovfFTizfG9SdN4zCptsPzA?view_as=subscriber
-[tube]: /img/youtube.png
+[tube]: https://github.com/MrAjMann/MrAjMann/blob/master/img/youtube.png
 [banner]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/MyCodingJourney.jpeg
 
 
