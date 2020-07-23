@@ -6,16 +6,16 @@
 
 ### I'm Anthony.
 
-An aspiring Fullstack Web / App developer with a passion for creating awesome UI/UX interactions
+Junior Front-End Web / App developer.
+
+
 
 ```
 ```
 
  📫  **How to reach me**: 
 
-![twitter][twit] **|**  
-![youtube][tube] **|** 
-![linkedin][linked] **|** 
+![twitter][twit] **|** ![youtube][tube] **|** ![linkedin][linked] **|** 
 
 [twitter]: https://www.twitter.com/mycodingjourne3
 [twit]: /img/twitter.png
