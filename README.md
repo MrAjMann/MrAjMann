@@ -6,16 +6,13 @@
 ### I'm Anthony.
 
 Junior Front-End Web / App developer.
-```
-```
-<a href="https://www.twitter.com/mycodingjourne3" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/twitter.png" alt="Twitter Link" width="30"></a>
 
-<a href="https://www.linkedin.com/in/anthonyjmann87/" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/linkedin.png" alt="Facebook" width="30"></a>
+### 📫 How to reach me: 
 
-<a href="https://www.youtube.com/channel/UCovfFTizfG9SdN4zCptsPzA?view_as=subscriber" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/youtube.png" alt="Youtube" width="30"></a>
+<a href="https://www.twitter.com/mycodingjourne3" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/twitter.png" alt="Twitter Link" width="64"></a> **|** <a href="https://www.linkedin.com/in/anthonyjmann87/" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/linkedin.png" alt="Facebook" width="64"></a> **|** <a href="https://www.youtube.com/channel/UCovfFTizfG9SdN4zCptsPzA?view_as=subscriber" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/youtube.png" alt="Youtube" width="64"></a>
 
 
-
+[banner]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/MyCodingJourney.jpeg
 
 ![Profile views](https://gpvc.arturio.dev/MrAjMann)
 <!--
