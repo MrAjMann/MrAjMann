@@ -13,7 +13,7 @@ An aspiring Fullstack Web / App developer with a passion for creating awesome UI
 
  📫  **How to reach me**: 
 
-![twitter][twit] **|**  ![youtube][tube] **|** ![linkedin][linked] **|** 
+[twitter][twit] **|**  ![youtube][tube] **|** ![linkedin][linked] **|** 
 
 [twitter]: https:///.com/mycodingjourne3
 [twit]: /img/twitter.png
