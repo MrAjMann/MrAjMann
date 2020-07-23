@@ -2,13 +2,11 @@
 
 # Hello World :earth_asia:
 
-[twitter]![twit] **|**
-[youtube]![tube] **|**
-[linkedin]![linked] **|**
+
 ### I'm Anthony.
 
 Junior Front-End Web / App developer.
-
+<a href="https://www.twitter.com/mycodingjourne3" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/twitter.png" alt="Facebook" width="30"></a>
 [twitter]: https://www.twitter.com/mycodingjourne3
 [twit]: https://github.com/MrAjMann/MrAjMann/blob/master/img/twitter.png
 [linkedin]: https://www.linkedin.com/in/anthonyjmann87/
@@ -23,7 +21,9 @@ Junior Front-End Web / App developer.
 **MrAjMann/MrAjMann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+[twitter]![twit] **|**
+[youtube]![tube] **|**
+[linkedin]![linked] **|**
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
