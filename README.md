@@ -2,17 +2,12 @@
 
 # Hello World :earth_asia:
 
-
+![twitter][twit] 
+![youtube][tube] 
+![linkedin][linked]
 ### I'm Anthony.
 
 Junior Front-End Web / App developer.
-`
-
- 📫  **How to reach me**: 
-
-![twitter][twit] 
-![youtube] [tube] 
-![linkedin] [linked]
 
 [twitter]: https://www.twitter.com/mycodingjourne3
 [twit]: /img/twitter.png
