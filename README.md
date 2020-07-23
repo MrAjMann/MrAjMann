@@ -2,9 +2,9 @@
 
 # Hello World :earth_asia:
 
-[twitter] ![twit] **|**
-[youtube] ![tube] **|**
-[linkedin] ![linked] **|**
+[twitter]![twit] **|**
+[youtube]![tube] **|**
+[linkedin]![linked] **|**
 ### I'm Anthony.
 
 Junior Front-End Web / App developer.
