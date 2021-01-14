@@ -18,16 +18,14 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
 
  A few of my designs from [![Dribbble][3.3]][3] 
 
-
  [![Digital-Manager][4.4]][4]
+
 
  [![Web-Design-Studio][5.5]][5]
 
-<!-- ![Digital Manager](./img/DribbbleDesigns/DigitalManager.png "Digital Manager Landing Page") -->
- 
+
 🔭 I’m currently completing a web development bootcamp with CoderAcademy
 
-<!-- ![Dribble](./img/DribbbleBanner.png ) -->
 
 ### Current Technologies
   **RUBY ON RAILS**  **<>**  **HTML**  **<>**  **SCSS**  **<>**  **JS**
@@ -45,11 +43,11 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
 [3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
 
 
-[4.4]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleDesigns/DigitalManager.png(Digital-Manager)
+[4.4]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleDesigns/DigitalManager.png (Digital-Manager)
 
 
+[5.5]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleDesigns/WebDesignStudioLandingPage.png (Design-Studio)
 
-[5.5]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleDesigns/WebDesignStudioLandingPage(Web-Design-Studio-Landing-Page)
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/mycodingjourne3
