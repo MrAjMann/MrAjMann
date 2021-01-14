@@ -4,17 +4,26 @@
 
 ### I'm Anthony.
 
-**Front-End Web developer**
-
-**UI /UX Designer**
+**Front-End Web Developer** | **UI /UX Designer**
 
 
-### 📫 How to reach me: 
+---
+
+### **let's Connect:**
 
 You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
 
 
-[![Dribbble][3.3]][3]
+---
+
+ A few of my designs from [![Dribbble][3.3]][3] 
+
+
+ [![Digital-Manager][4.1]][4]
+
+ [![Web-Design-Studio][4.2]][5]
+
+<!-- ![Digital Manager](./img/DribbbleDesigns/DigitalManager.png "Digital Manager Landing Page") -->
  
 🔭 I’m currently completing a web development bootcamp with CoderAcademy
 
@@ -25,10 +34,7 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrAjMann)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-
-
+---
 
 <!-- Icons -->
 
@@ -38,6 +44,12 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
 
 [3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
 
+
+[4.1]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleDesigns/DigitalManager.png(Digital-Manager)
+
+
+
+[4.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleDesigns/Web-Design-Studio-Landing-Page.png(Web-Design-Studio-Landing-Page)
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/mycodingjourne3
@@ -45,6 +57,10 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
 [2]: https://www.linkedin.com/in/anthonyjmann87/
 
 [3]: https://www.dribbble.com/MyCodingJourne3
+
+[4]:https://dribbble.com/shots/14712214-Digital-Manager
+
+[5]: https://dribbble.com/shots/14670371-Website-Design-Studio
 
 [banner]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/GitHub-Background.png
 
