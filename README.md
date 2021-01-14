@@ -8,10 +8,17 @@
 
 **UI /UX Designer**
 
+
+### 📫 How to reach me: 
+
+You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
+
+
 [![Dribbble][3.3]][3]
  
 🔭 I’m currently completing a web development bootcamp with CoderAcademy
 
+<!-- ![Dribble](./img/DribbbleBanner.png ) -->
 
 ### Current Technologies
   **RUBY ON RAILS**  **<>**  **HTML**  **<>**  **SCSS**  **<>**  **JS**
@@ -19,15 +26,15 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrAjMann)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 📫 How to reach me: 
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
+
+
 
 <!-- Icons -->
 
-[1.1]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img//twitter.png (twitter icon without padding)
+[1.1]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img//twitter.png (twitter)
 
-[2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/LinkedIn.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/LinkedIn.png (LinkedIn)
 
 [3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
 
