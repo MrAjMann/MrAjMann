@@ -5,15 +5,27 @@
 
 ### I'm Anthony.
 
-Junior Front-End Web / App developer.
+Front-End Web developer.
 
 ### Current Technologies
   **RUBY**  **<>**  **HTML**  **<>**  **CSS**  **<>**  **JS**
   
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrAjMann)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### 📫 How to reach me: 
 
-<a href="https://www.twitter.com/mycodingjourne3" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/twitter.png" alt="Twitter Link" width="64"></a> **|** <a href="https://www.linkedin.com/in/anthonyjmann87/" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/linkedin.png" alt="Facebook" width="64"></a> **|** <a href="https://www.youtube.com/channel/UCovfFTizfG9SdN4zCptsPzA?view_as=subscriber" target="_blank"><img src="https://github.com/MrAjMann/MrAjMann/blob/master/img/youtube.png" alt="Youtube" width="64"></a>
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/linkedin-3-16.png (LinkedIn icon without padding)
+images
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/mycodingjourne3_
+[2]: https://www.linkedin.com/in/anthonyjmann87/
 
 
 [banner]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/MyCodingJourney.jpeg
