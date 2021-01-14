@@ -5,14 +5,13 @@
 
 ### I'm Anthony.
 
+**Front-End Web developer**
 
-**Front-End Web developer**.
 **UI /UX Designer**
 
 [![Dribbble][3.3]][3]
  
 🔭 I’m currently completing a web development bootcamp with CoderAcademy
-
 
 
 ### Current Technologies
@@ -31,7 +30,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/linkedin-3-16.png (LinkedIn icon without padding)
 
-[3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/dribbbleBanner.png (Dribbble)
+[3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/mycodingjourne3_
