@@ -16,8 +16,11 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
 
 ---
 
- A few of my designs from [![Dribbble][3.3]][3] 
-
+ A few of my designs from:
+ 
+ [![Dribbble][3.3]][3] 
+ 
+---
  [![Digital-Manager][4.4]][4]
 
 
@@ -40,7 +43,7 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
 
 [2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/LinkedIn.png (LinkedIn)
 
-[3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
+[3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/Dribbble-Banner.png (Dribbble)
 
 
 [4.4]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleDesigns/DigitalManager.png (Digital-Manager)
