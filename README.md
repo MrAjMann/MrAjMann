@@ -27,13 +27,15 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[1.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img//twitter.png(twitter icon without padding)
 
-[2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/linkedIn.png (LinkedIn icon without padding)
+
+[2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/LinkedIn.png (LinkedIn icon without padding)
+
 
 [3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
+
 <!-- Links to your social media accounts -->
-<!-- ![](./img/linkedin-3-16.png) -->
 
 [1]: https://twitter.com/mycodingjourne3_
 [2]: https://www.linkedin.com/in/anthonyjmann87/
@@ -56,3 +58,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Testing](./img/twitter.png "Testing")
