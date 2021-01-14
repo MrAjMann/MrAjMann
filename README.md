@@ -1,5 +1,6 @@
 ![banner]
 
+
 # Hello World :earth_asia:
 
 
@@ -32,12 +33,13 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
 <!-- Links to your social media accounts -->
+<!-- ![](./img/linkedin-3-16.png) -->
 
 [1]: https://twitter.com/mycodingjourne3_
 [2]: https://www.linkedin.com/in/anthonyjmann87/
 [3]: https://www.dribbble.com/MyCodingJourne3
 
-[banner]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/MyCodingJourney.jpeg
+[banner]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/GitHub-Background.png
 
 <!--
 **MrAjMann/MrAjMann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
