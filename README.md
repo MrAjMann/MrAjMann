@@ -1,8 +1,6 @@
 ![banner]
 
-
 # Hello World :earth_asia:
-
 
 ### I'm Anthony.
 
@@ -27,18 +25,18 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img//twitter.png(twitter icon without padding)
-
+[1.1]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img//twitter.png (twitter icon without padding)
 
 [2.2]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/LinkedIn.png (LinkedIn icon without padding)
-
 
 [3.3]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/DribbbleBanner.png (Dribbble)
 
 <!-- Links to your social media accounts -->
 
 [1]: https://twitter.com/mycodingjourne3_
+
 [2]: https://www.linkedin.com/in/anthonyjmann87/
+
 [3]: https://www.dribbble.com/MyCodingJourne3
 
 [banner]: https://raw.githubusercontent.com/MrAjMann/MrAjMann/master/img/GitHub-Background.png
@@ -58,4 +56,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Testing](./img/twitter.png "Testing")
