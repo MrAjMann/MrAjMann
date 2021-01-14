@@ -13,6 +13,8 @@
  
 🔭 I’m currently completing a web development bootcamp with CoderAcademy
 
+
+
 ### Current Technologies
   **RUBY ON RAILS**  **<>**  **HTML**  **<>**  **SCSS**  **<>**  **JS**
   
