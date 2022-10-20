@@ -4,15 +4,7 @@
 
 ### I'm Anthony.
 
-**Front-End Web Developer** | **UI /UX Designer**
-
-
----
-
-### **let's Connect:**
-
-You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
-
+**Front-End Web Developer** 
 
 ---
 
@@ -27,13 +19,12 @@ You can find me on [![Twitter][1.1]][1], or on [![LinkedIn][2.2]][2].
  [![Web-Design-Studio][5.5]][5]
 
 
-🔭 I’m currently completing a web development bootcamp with CoderAcademy
+🔭 I’m currently completing a Bachlors of Interactive and Digital Design @ University of Souther Queensland
 
 
 ### Current Technologies
-  **RUBY ON RAILS**  **<>**  **HTML**  **<>**  **SCSS**  **<>**  **JS**
+  **ReactJS**  **<>**  **HTML**  **<>**  **SCSS**  **<>**  **JS**
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrAjMann)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
